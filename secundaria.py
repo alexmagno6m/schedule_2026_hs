@@ -154,7 +154,7 @@ app.layout = html.Div([
         ], className="footer"),
 
         html.Div([
-            "Powered by Python and Dash - Created by BitSmart | Alexander Acevedo (2016-2026)"
+            "Powered by Python Dash - Created by BitSmart | Alexander Acevedo (2016-2026)"
         ], className="credits")
 
     ], className="main-container")
